@@ -1,0 +1,7 @@
+"trial_id","participants","males","females","avg_age","avg_placebo","avg_real_drug","trial_name"
+1,20,9,11,42.2,43.4,60.8,Trial_Aspirin
+2,20,10,10,44.1,53.0,52.0,Trial_Ibuprofen
+3,20,9,11,45.3,46.6,54.6,Trial_Metformin
+4,20,11,9,45.4,47.6,52.6,Trial_Atorvastatin
+5,20,10,10,43.9,50.1,55.6,Trial_Lisinopril
+6,20,10,10,43.0,53.1,56.5,Trial_Amoxicillin
